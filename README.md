@@ -41,8 +41,6 @@ The following flowchart illustrates the logical sequence of operations — from 
 ![Software Flowchart](images/sw_flow_chart.png)  
 *Figure 1: Software flow of the Heart Rate Monitor program.*
 
-> 📝 *Upload your flowchart image to the `/images/` folder in your repository and ensure the path above matches.*
-
 ---
 
 ## ⚡ Wiring Diagram
@@ -51,7 +49,6 @@ The wiring diagram below shows how to connect the **ESP32**, **pulse sensor**, a
 
 ![Wiring Diagram](images/wiring_diagram.png)  
 *Figure 2: Hardware connections for the Heart Rate Monitor.*
-
 
 ---
 
